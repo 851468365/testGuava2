@@ -4,7 +4,18 @@ https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw%3D%3D&chksm=eb503f86dc27b6903774
 
 https://www.cnblogs.com/moongeek/p/12831296.html
 
+https://blog.csdn.net/j16421881/article/details/79874819
 
+
+https://www.toutiao.com/a6662447853715063310/?channel=&source=search_tab
+
+http://ifeve.com/google-guava/
+
+https://juejin.cn/post/6844903618584248334
+
+https://blog.csdn.net/qq_40794973/article/details/103830542
+
+https://www.cnblogs.com/moongeek/p/12831296.html
 
 
 
