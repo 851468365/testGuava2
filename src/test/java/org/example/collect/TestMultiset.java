@@ -1,4 +1,4 @@
-package com.example.demo;
+package org.example.collect;
 
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.Multiset;
